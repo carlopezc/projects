@@ -12,7 +12,7 @@ Welcome to my project portfolio. Here you will find a detailed list of the proje
     -  `cd libft`
     -  `make`
     -  This creates a `libft.a` file to be linked with other projects.
-* **Repository:** https://github.com/carlopezc/your-libft-repo)](https://github.com/carlopezc/Libft
+* **Repository:** https://github.com/carlopezc/Libft
 
 ---
 
