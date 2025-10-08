@@ -68,6 +68,18 @@ Welcome to my project portfolio. Here you will find a detailed list of the proje
 
 ---
 
+## 🌐 FdF (Fil de Fer)
+* **What it does:** A program that reads a map of 3D coordinates (x, y, z for altitude) from a file and renders a 2D isometric (wireframe) projection, creating a 3D-like landscape on the screen.
+* **Why I built it:** This was my first foray into graphics programming using the MiniLibX library. It was a fantastic practical exercise in applying mathematical concepts, specifically linear algebra for transformations like rotation, translation, and scaling. I learned to manage a graphical window and handle user input (keyboard events) for an interactive experience.
+* **How to compile & run:**
+    -  `git clone git@github.com:carlopezc/Fdf.git`
+    -  `make`
+    -  `./fdf [path_to_map_file]` (e.g., `./fdf maps/pylone.fdf`).
+    -  Use keyboard controls (e.g., arrows to move, +/- to zoom, R to rotate) to interact with the model.
+* **Repository:** https://github.com/carlopezc/Fdf
+
+---
+
 ## 🐚 MiniShell
 * **What it does:** A custom-built shell that can parse and execute commands, manage environment variables, handle signals (`Ctrl-C`, `Ctrl-\`), and implement I/O redirections (`>`, `<`, `>>`, `<<`) and pipes (`|`).
 * **Why I built it:** This is a major project that ties together many concepts of system programming. It was a huge challenge in parsing, process management, and state handling. It's the project I'm proudest of for its complexity.
