@@ -4,4 +4,4 @@ This section contains my projects built with C++, focusing on Object-Oriented Pr
 
 | Project | Short Description | Repository |
 | :--- | :--- | :--- |
-| **CPP Module 00** | Intro to C++ syntax, classes, and OOP. | `carlopezc/CPP00` |
+| **CPP Module 00** | Intro to C++ syntax, classes, and OOP. | [carlopezc/CPP00](https://github.com/carlopezc/CPP00.git) |
